@@ -1,2 +1,2 @@
-# Github and git conflict
+# Github and git
 Mohammed Ali GN2504
